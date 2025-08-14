@@ -1,0 +1,6 @@
+name: arabica-streamlit
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - -r requirements.txt
